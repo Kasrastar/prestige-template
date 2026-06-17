@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Prestige Spatial Engine",
+  "description": "A dark-mode FSM state machine pipeline builder featuring drag-and-drop nodes, execution trace logs, QA telemetry, transition sandbox sandboxes, and RBAC control simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
